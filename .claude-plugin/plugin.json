@@ -10,5 +10,12 @@
   },
   "homepage": "https://www.betclear.app/en/mcp",
   "license": "MIT",
-  "keywords": ["gambling", "blocker", "betting", "self-exclusion", "recovery"]
+  "keywords": [
+    "gambling",
+    "blocker",
+    "betting",
+    "self-exclusion",
+    "recovery"
+  ],
+  "privacyPolicyUrl": "https://www.betclear.app/en/privacy"
 }
