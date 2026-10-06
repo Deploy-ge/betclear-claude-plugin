@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "betclear": {
+      "type": "http",
+      "url": "https://www.betclear.app/api/mcp"
+    }
+  }
+}

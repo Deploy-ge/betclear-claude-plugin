@@ -1,0 +1,14 @@
+{
+  "name": "betclear",
+  "displayName": "BetClear",
+  "version": "0.1.0",
+  "description": "Block gambling websites on iPhone, Android, Mac and Windows 11. Check whether a site is a gambling site, estimate what gambling costs, and get support through an urge.",
+  "author": {
+    "name": "BetClear",
+    "email": "hello@betclear.app",
+    "url": "https://www.betclear.app"
+  },
+  "homepage": "https://www.betclear.app/en/mcp",
+  "license": "MIT",
+  "keywords": ["gambling", "blocker", "betting", "self-exclusion", "recovery"]
+}
